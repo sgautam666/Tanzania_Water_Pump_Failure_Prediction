@@ -1,5 +1,5 @@
 
-![image](/images/water_tap.JPG)
+![image](https://github.com/sgautam666/Tanzania_Water_Pump_Failure_Prediction/blob/main/images/water_tap.jpg)
 
 # Tanzania Water Pump Failure_Prediction
 
