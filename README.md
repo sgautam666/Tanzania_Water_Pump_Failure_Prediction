@@ -37,7 +37,7 @@ See the full analysis in the [Jupyter Notebook](./final_model.ipynb) or review t
 ├── data
 ├── images
 ├── Water_pump_exploration.ipynb
-├── final_model.ipynb
-├── Water_pump_failure_prediction.pdf
+├── Final_Model.ipynb
+├── Water_Pump_Failure_Prediction_notebook.pdf
 └── README.md
 ```
