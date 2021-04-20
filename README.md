@@ -1,5 +1,5 @@
 
-![image](./images/water_tap.JPG)
+![image](/images/water_tap.JPG)
 
 # Tanzania Water Pump Failure_Prediction
 
