@@ -1,5 +1,5 @@
 
-![image](./images/water_tap.JPG)
+![image](./images/water_tap.jpg)
 
 # Tanzania Water Pump Failure_Prediction
 
@@ -27,7 +27,7 @@ The datasets for this project is provided by [drivendata.org](https://www.driven
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./final_model.ipynb) or review this [presentation](./house_price_prediction.pdf).
+See the full analysis in the [Jupyter Notebook](./final_model.ipynb) or review this [presentation](./Water_Pump_Failure_Prediction_notebook.pdf).
 
 
 
